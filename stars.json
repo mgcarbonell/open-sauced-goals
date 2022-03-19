@@ -1,21 +1,21 @@
 [
   {
     "full_name": "bregman-arie/devops-exercises",
-    "stargazers_count": 21699,
+    "stargazers_count": 21737,
     "open_issues_count": 18,
-    "forks_count": 4602
+    "forks_count": 4632
   },
   {
     "full_name": "DopplerHQ/awesome-interview-questions",
-    "stargazers_count": 45409,
+    "stargazers_count": 45445,
     "open_issues_count": 8,
-    "forks_count": 6744
+    "forks_count": 6751
   },
   {
     "full_name": "iluwatar/java-design-patterns",
-    "stargazers_count": 73734,
-    "open_issues_count": 269,
-    "forks_count": 22961
+    "stargazers_count": 73786,
+    "open_issues_count": 270,
+    "forks_count": 22982
   },
   {
     "full_name": "YearOne-Prep/YearOne-prep-challenges",
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "remy/nodemon",
-    "stargazers_count": 23723,
+    "stargazers_count": 23738,
     "open_issues_count": 50,
-    "forks_count": 1576
+    "forks_count": 1575
   },
   {
     "full_name": "tssovi/grokking-the-object-oriented-design-interview",
-    "stargazers_count": 1515,
+    "stargazers_count": 1533,
     "open_issues_count": 4,
-    "forks_count": 1000
+    "forks_count": 1009
   },
   {
     "full_name": "jazznerd206/Standard_10",
@@ -43,31 +43,31 @@
   },
   {
     "full_name": "typeorm/typeorm",
-    "stargazers_count": 27517,
-    "open_issues_count": 1478,
-    "forks_count": 4997
+    "stargazers_count": 27557,
+    "open_issues_count": 1476,
+    "forks_count": 5003
   },
   {
     "full_name": "accurics/terrascan",
-    "stargazers_count": 2847,
-    "open_issues_count": 112,
-    "forks_count": 323
+    "stargazers_count": 2859,
+    "open_issues_count": 114,
+    "forks_count": 327
   },
   {
     "full_name": "namvdo/CS-and-Programming-Books",
-    "stargazers_count": 335,
+    "stargazers_count": 334,
     "open_issues_count": 0,
     "forks_count": 85
   },
   {
     "full_name": "lirantal/dockly",
-    "stargazers_count": 3223,
+    "stargazers_count": 3233,
     "open_issues_count": 12,
-    "forks_count": 149
+    "forks_count": 150
   },
   {
     "full_name": "Netflix/falcor",
-    "stargazers_count": 10112,
+    "stargazers_count": 10114,
     "open_issues_count": 61,
     "forks_count": 474
   },
@@ -75,7 +75,7 @@
     "full_name": "evennia/evennia",
     "stargazers_count": 1442,
     "open_issues_count": 96,
-    "forks_count": 591
+    "forks_count": 592
   },
   {
     "full_name": "EskiMojo14/keycaplendar",
@@ -85,21 +85,21 @@
   },
   {
     "full_name": "brillout/awesome-react-components",
-    "stargazers_count": 29259,
+    "stargazers_count": 29280,
     "open_issues_count": 1,
-    "forks_count": 2533
+    "forks_count": 2538
   },
   {
     "full_name": "lydiahallie/javascript-questions",
-    "stargazers_count": 42099,
+    "stargazers_count": 42152,
     "open_issues_count": 79,
-    "forks_count": 5890
+    "forks_count": 5896
   },
   {
     "full_name": "Rust-for-Linux/linux",
-    "stargazers_count": 2203,
+    "stargazers_count": 2211,
     "open_issues_count": 148,
-    "forks_count": 159
+    "forks_count": 160
   },
   {
     "full_name": "github-craftwork/start-here",
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "sass/sass",
-    "stargazers_count": 13810,
-    "open_issues_count": 116,
-    "forks_count": 1990
+    "stargazers_count": 13813,
+    "open_issues_count": 115,
+    "forks_count": 1993
   },
   {
     "full_name": "jmkoni/interview-questions",
@@ -121,51 +121,51 @@
   },
   {
     "full_name": "boto/boto3",
-    "stargazers_count": 7093,
-    "open_issues_count": 269,
-    "forks_count": 1538
+    "stargazers_count": 7096,
+    "open_issues_count": 268,
+    "forks_count": 1542
   },
   {
     "full_name": "sveltejs/svelte",
-    "stargazers_count": 56662,
-    "open_issues_count": 703,
-    "forks_count": 2784
+    "stargazers_count": 56742,
+    "open_issues_count": 704,
+    "forks_count": 2799
   },
   {
     "full_name": "prisma/prisma-examples",
-    "stargazers_count": 3356,
-    "open_issues_count": 67,
-    "forks_count": 866
+    "stargazers_count": 3372,
+    "open_issues_count": 66,
+    "forks_count": 865
   },
   {
     "full_name": "Semantic-Org/Semantic-UI",
-    "stargazers_count": 49917,
+    "stargazers_count": 49919,
     "open_issues_count": 1057,
-    "forks_count": 5143
+    "forks_count": 5142
   },
   {
     "full_name": "nasa/fprime",
-    "stargazers_count": 8782,
-    "open_issues_count": 78,
+    "stargazers_count": 8781,
+    "open_issues_count": 80,
     "forks_count": 1082
   },
   {
     "full_name": "maxcountryman/flask-login",
-    "stargazers_count": 2990,
-    "open_issues_count": 60,
+    "stargazers_count": 2991,
+    "open_issues_count": 61,
     "forks_count": 698
   },
   {
     "full_name": "lepture/authlib",
-    "stargazers_count": 2985,
-    "open_issues_count": 35,
+    "stargazers_count": 3003,
+    "open_issues_count": 33,
     "forks_count": 307
   },
   {
     "full_name": "starship/starship",
-    "stargazers_count": 23457,
-    "open_issues_count": 377,
-    "forks_count": 976
+    "stargazers_count": 23541,
+    "open_issues_count": 372,
+    "forks_count": 980
   },
   {
     "full_name": "aaronbassett/FARM-starter",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "ppb/pursuedpybear",
-    "stargazers_count": 213,
+    "stargazers_count": 214,
     "open_issues_count": 119,
     "forks_count": 95
   }
